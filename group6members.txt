@@ -1,6 +1,12 @@
-Dulay, Mark Eugene
-Eugine, Karl Jeffer
-Salmorin, Bryan
-Santos, John Michael
-Tijamo, Paul Mykel Clarence
-Zapanta, Vincent Joshua
+Dulay, Mark Eugene-SE JAVA
+
+Eugine, Karl Jeffer-HYBRID CLOUD
+
+Salmorin, Bryan-SE TESTING
+
+Santos, John Michael-SE JAVA
+
+Tijamo, Paul Mykel Clarence-SE TESTING
+
+Zapanta, Vincent Joshua-HYBRID CLOUD
+ 
